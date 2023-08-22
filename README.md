@@ -5,7 +5,7 @@ An Advanced Robotic Arm Implementation for Playing Tic-Tac-Toe
 
 ## Project Description
 
-Design mechanical and program an advanced robotic arm play the classic game of Tic-Tac-Toe. This project showcases the integration of robotics and AI to create an intelligent system capable of making strategic moves on the Tic-Tac-Toe board. The project also includes a complete mathematical model of the SCARA robot, as well as dynamic simulation and servo actuator dynamics. The equations of motion are derived using Lagrangian mechanics.
+The turn-based game (tic tac toe) can be played by designing a mechanical structure and programming a robotic arm. This project shows how robotics and artificial intelligence can be used to develop a clever system that can play Tic-Tac-Toe strategically. The motion equations are derived using Lagrangian mechanics.
 
 ## Features
 
